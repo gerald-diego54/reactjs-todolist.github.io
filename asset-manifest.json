@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gerald-diego54/reactjs-todolist.github.io.git/static/css/main.6407b5b1.chunk.css",
+    "main.js": "/gerald-diego54/reactjs-todolist.github.io.git/static/js/main.271b78bc.chunk.js",
+    "main.js.map": "/gerald-diego54/reactjs-todolist.github.io.git/static/js/main.271b78bc.chunk.js.map",
+    "runtime-main.js": "/gerald-diego54/reactjs-todolist.github.io.git/static/js/runtime-main.7d6d836f.js",
+    "runtime-main.js.map": "/gerald-diego54/reactjs-todolist.github.io.git/static/js/runtime-main.7d6d836f.js.map",
+    "static/js/2.988852d7.chunk.js": "/gerald-diego54/reactjs-todolist.github.io.git/static/js/2.988852d7.chunk.js",
+    "static/js/2.988852d7.chunk.js.map": "/gerald-diego54/reactjs-todolist.github.io.git/static/js/2.988852d7.chunk.js.map",
+    "static/js/3.42cc0119.chunk.js": "/gerald-diego54/reactjs-todolist.github.io.git/static/js/3.42cc0119.chunk.js",
+    "static/js/3.42cc0119.chunk.js.map": "/gerald-diego54/reactjs-todolist.github.io.git/static/js/3.42cc0119.chunk.js.map",
+    "index.html": "/gerald-diego54/reactjs-todolist.github.io.git/index.html",
+    "static/css/main.6407b5b1.chunk.css.map": "/gerald-diego54/reactjs-todolist.github.io.git/static/css/main.6407b5b1.chunk.css.map",
+    "static/js/2.988852d7.chunk.js.LICENSE.txt": "/gerald-diego54/reactjs-todolist.github.io.git/static/js/2.988852d7.chunk.js.LICENSE.txt",
+    "static/media/about.f4200677.jfif": "/gerald-diego54/reactjs-todolist.github.io.git/static/media/about.f4200677.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d6d836f.js",
+    "static/js/2.988852d7.chunk.js",
+    "static/css/main.6407b5b1.chunk.css",
+    "static/js/main.271b78bc.chunk.js"
+  ]
+}
