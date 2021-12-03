@@ -1,0 +1,20 @@
+$font-style: italic;
+$font-weight: bolder;
+$font-size-header: 40px;
+$font-size-sub: 17px;
+$txt-color: #9e61ff;
+
+.sub-header {
+    font-style: $font-style;
+    font-size: $font-size-sub;
+}
+.header-name {
+    font-weight: $font-weight;
+    font-size: $font-size-header;
+}
+.btn-action {
+    color: $txt-color !important;
+}
+.btn-action:hover {
+    color: #390096 !important;
+}
